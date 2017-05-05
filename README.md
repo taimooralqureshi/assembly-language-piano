@@ -1,2 +1,2 @@
 # assembly-language-piano
-assembly language sound programming for piano
+assembly language sound programming for objective piano
